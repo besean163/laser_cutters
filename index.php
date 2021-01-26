@@ -6,6 +6,7 @@
 	<body>
 		<div id="container"><?=$content['data']?></div>
 		<a href="patterns/add.php">Добавление позиции в базу</a><br>
-		<a href="patterns/product.php">Шаблон одной позиции</a> 
+		<a href="patterns/product.php">Шаблон одной позиции</a>
+		<a href="test.php">Тестовая страница</a>
 	</body>
 </html>
